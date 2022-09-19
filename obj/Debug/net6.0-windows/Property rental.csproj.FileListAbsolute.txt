@@ -1,0 +1,30 @@
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\Property rental.exe
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\Property rental.deps.json
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\Property rental.runtimeconfig.json
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\Property rental.dll
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\Property rental.pdb
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OLEBOGENG\source\repos\Property rental\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property rental.csproj.AssemblyReference.cache
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property_rental.Apartments.resources
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property_rental.Categorys.resources
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property_rental.PropertyRental.resources
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property_rental.Landlords.resources
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property_rental.Properties.Resources.resources
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property_rental.Rents.resources
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property_rental.Tenants.resources
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property rental.csproj.GenerateResource.cache
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property rental.AssemblyInfoInputs.cache
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property rental.AssemblyInfo.cs
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property rental.csproj.CoreCompileInputs.cache
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property rental.csproj.CopyComplete
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property rental.dll
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\refint\Property rental.dll
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property rental.pdb
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\Property rental.genruntimeconfig.cache
+C:\Users\OLEBOGENG\source\repos\Property rental\obj\Debug\net6.0-windows\ref\Property rental.dll
